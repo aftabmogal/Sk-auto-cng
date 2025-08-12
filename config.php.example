@@ -1,0 +1,8 @@
+<?php
+// Copy this file to config.php and update the values
+$db_host = 'localhost';
+$db_name = 'sk_auto_db';
+$db_user = 'sk_user';
+$db_pass = 'sk_password';
+
+// For security, set proper permissions on config.php and change the password
